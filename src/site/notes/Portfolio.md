@@ -16,11 +16,11 @@
 
 | Badge | Certification & Verification |
 | :---: | :--- |
-| <a href="https://www.credly.com/badges/5cb21cf2-f95a-41c0-89c5-cd994543f9fa/public_url" target="_blank"><img src="Assets/blob.png" width="70" /></a> | **TryHackMe Cyber Security 101 (SEC1)** — Certified<br>[Verify Credly Badge](https://www.credly.com/badges/5cb21cf2-f95a-41c0-89c5-cd994543f9fa/public_url) |
-| <a href="https://www.credly.com/badges/f4469327-8932-4dea-a68a-ddd96438be20/public_url" target="_blank"><img src="Assets/isc2cc.png" width="70" /></a> | **ISC2 Certified in Cybersecurity (CC)** — Certified<br>[Verify Credly Badge](https://www.credly.com/badges/f4469327-8932-4dea-a68a-ddd96438be20/public_url) |
-| <a href="https://www.credly.com/badges/7cb3a47a-1ff6-412b-9dc1-aedc5f74c0a4/public_url" target="_blank"><img src="Assets/gcc.png" width="70" /></a> | **Google Cybersecurity Professional Certificate** — Completed<br>[Verify Credly Badge](https://www.credly.com/badges/7cb3a47a-1ff6-412b-9dc1-aedc5f74c0a4/public_url) |
-| <a href="https://www.credly.com/badges/7953fda7-8f4f-4f4a-bb5a-5c0d96a3aa10/public_url" target="_blank"><img src="Assets/gitc.png" width="70" /></a> | **Google IT Support Professional Certificate (v.3)** — Completed<br>[Verify Credly Badge](https://www.credly.com/badges/7953fda7-8f4f-4f4a-bb5a-5c0d96a3aa10/public_url) |
-| <a href="https://www.credly.com/badges/f66208e8-1910-438b-ac8c-f2f8f69ba258/public_url" target="_blank"><img src="Assets/gaif.png" width="70" /></a> | **Google AI Fundamentals** — Completed<br>[Verify Credly Badge](https://www.credly.com/badges/f66208e8-1910-438b-ac8c-f2f8f69ba258/public_url) |
+| ![TryHackMe SEC1](Assets/blob.png|70) | **TryHackMe Cyber Security 101 (SEC1)** — Certified<br>[Verify Credly Badge](https://www.credly.com/badges/5cb21cf2-f95a-41c0-89c5-cd994543f9fa/public_url) |
+| ![ISC2 CC](Assets/isc2cc.png|70) | **ISC2 Certified in Cybersecurity (CC)** — Certified<br>[Verify Credly Badge](https://www.credly.com/badges/f4469327-8932-4dea-a68a-ddd96438be20/public_url) |
+| ![Google Cybersecurity Certificate](Assets/gcc.png|70) | **Google Cybersecurity Professional Certificate** — Completed<br>[Verify Credly Badge](https://www.credly.com/badges/7cb3a47a-1ff6-412b-9dc1-aedc5f74c0a4/public_url) |
+| ![Google IT Support Certificate](Assets/gitc.png|70) | **Google IT Support Professional Certificate (v.3)** — Completed<br>[Verify Credly Badge](https://www.credly.com/badges/7953fda7-8f4f-4f4a-bb5a-5c0d96a3aa10/public_url) |
+| ![Google AI Fundamentals](Assets/gaif.png|70) | **Google AI Fundamentals** — Completed<br>[Verify Credly Badge](https://www.credly.com/badges/f66208e8-1910-438b-ac8c-f2f8f69ba258/public_url) |
 ---
 
 ## Technical Write-Ups & CTFs
