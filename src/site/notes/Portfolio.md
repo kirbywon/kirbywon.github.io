@@ -40,7 +40,7 @@
 ## Hands-On Projects & Infrastructure
 
 ### PieSOC — Containerized Mini Security Operations Center
-Built and deployed **PieSOC**, a multi-node home network Security Operations Center running on a Raspberry Pi 5 and Raspberry Pi Zero 2 W. Source code and deployment files are available on [GitHub](https://github.com/kirbywon).
+Built and deployed **PieSOC**, a multi-node home network Security Operations Center running on a Raspberry Pi 5 and Raspberry Pi Zero 2 W. Source code and deployment files are available on [GitHub](https://github.com/kirbywon/raspberry-pi-soc).
 
 * **Threat Detection (NIDS):** Configured **Suricata** to monitor live network interface traffic, inspect packets, and log security alerts.
 * **DNS Filtering & Privacy:** Deployed **Pi-hole** chained with **Unbound** for recursive, encrypted DNS resolution and ad-blocking.
