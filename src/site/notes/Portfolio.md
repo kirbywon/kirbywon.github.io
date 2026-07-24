@@ -12,46 +12,31 @@
 
 ## Certifications & Verified Credentials
 
+## Certifications & Verified Credentials
+
 ### Featured Badges
 
-<br>
-
-<a href="https://www.credly.com/badges/5cb21cf2-f95a-41c0-89c5-cd994543f9fa/public_url" target="_blank">
-  <img src="Assets/Blob.png" width="120" alt="TryHackMe SEC1" />
-</a>
-
+[![TryHackMe SEC1](/img/user/Assets/blob.png)](https://www.credly.com/badges/5cb21cf2-f95a-41c0-89c5-cd994543f9fa/public_url)  
 * **TryHackMe Cyber Security 101 (SEC1)** — Certified | [Verify Credly Badge](https://www.credly.com/badges/5cb21cf2-f95a-41c0-89c5-cd994543f9fa/public_url)
 
 ---
 
-<a href="https://www.credly.com/badges/f4469327-8932-4dea-a68a-ddd96438be20/public_url" target="_blank">
-  <img src="Assets/isc2cc.png" width="120" alt="ISC2 CC" />
-</a>
-
+[![ISC2 CC](/img/user/Assets/isc2cc.png)](https://www.credly.com/badges/f4469327-8932-4dea-a68a-ddd96438be20/public_url)  
 * **ISC2 Certified in Cybersecurity (CC)** — Certified | [Verify Credly Badge](https://www.credly.com/badges/f4469327-8932-4dea-a68a-ddd96438be20/public_url)
 
 ---
 
-<a href="https://www.credly.com/badges/7cb3a47a-1ff6-412b-9dc1-aedc5f74c0a4/public_url" target="_blank">
-  <img src="Assets/gcc.png" width="120" alt="Google Cybersecurity Certificate" />
-</a>
-
+[![Google Cybersecurity Certificate](/img/user/Assets/gcc.png)](https://www.credly.com/badges/7cb3a47a-1ff6-412b-9dc1-aedc5f74c0a4/public_url)  
 * **Google Cybersecurity Professional Certificate** — Completed | [Verify Credly Badge](https://www.credly.com/badges/7cb3a47a-1ff6-412b-9dc1-aedc5f74c0a4/public_url)
 
 ---
 
-<a href="https://www.credly.com/badges/7953fda7-8f4f-4f4a-bb5a-5c0d96a3aa10/public_url" target="_blank">
-  <img src="Assets/gitc.png" width="120" alt="Google IT Support Certificate" />
-</a>
-
+[![Google IT Support Certificate](/img/user/Assets/gitc.png)](https://www.credly.com/badges/7953fda7-8f4f-4f4a-bb5a-5c0d96a3aa10/public_url)  
 * **Google IT Support Professional Certificate (v.3)** — Completed | [Verify Credly Badge](https://www.credly.com/badges/7953fda7-8f4f-4f4a-bb5a-5c0d96a3aa10/public_url)
 
 ---
 
-<a href="https://www.credly.com/badges/f66208e8-1910-438b-ac8c-f2f8f69ba258/public_url" target="_blank">
-  <img src="Assets/gaif.png" width="120" alt="Google AI Fundamentals" />
-</a>
-
+[![Google AI Fundamentals](/img/user/Assets/gaif.png)](https://www.credly.com/badges/f66208e8-1910-438b-ac8c-f2f8f69ba258/public_url)  
 * **Google AI Fundamentals** — Completed | [Verify Credly Badge](https://www.credly.com/badges/f66208e8-1910-438b-ac8c-f2f8f69ba258/public_url)
 
 ---
