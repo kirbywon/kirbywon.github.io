@@ -10,40 +10,24 @@
 
 ---
 
-<p align="left">
-  <a href="https://www.credly.com/badges/5cb21cf2-f95a-41c0-89c5-cd994543f9fa/public_url" target="_blank"><img src="Assets/Blob.png" width="50" align="left" style="margin-right: 15px;" /></a>
-  <strong>TryHackMe Cyber Security 101 (SEC1)</strong> — Certified<br>
-  <a href="https://www.credly.com/badges/5cb21cf2-f95a-41c0-89c5-cd994543f9fa/public_url" target="_blank">Verify Credly Badge</a>
-</p>
-<br clear="all">
+## Certifications & Verified Credentials
 
-<p align="left">
-  <a href="https://www.credly.com/badges/f4469327-8932-4dea-a68a-ddd96438be20/public_url" target="_blank"><img src="Assets/isc2cc.png" width="50" align="left" style="margin-right: 15px;" /></a>
-  <strong>ISC2 Certified in Cybersecurity (CC)</strong> — Certified<br>
-  <a href="https://www.credly.com/badges/f4469327-8932-4dea-a68a-ddd96438be20/public_url" target="_blank">Verify Credly Badge</a>
-</p>
-<br clear="all">
+### Featured Badges
 
-<p align="left">
-  <a href="https://www.credly.com/badges/7cb3a47a-1ff6-412b-9dc1-aedc5f74c0a4/public_url" target="_blank"><img src="Assets/gcc.png" width="50" align="left" style="margin-right: 15px;" /></a>
-  <strong>Google Cybersecurity Professional Certificate</strong> — Completed<br>
-  <a href="https://www.credly.com/badges/7cb3a47a-1ff6-412b-9dc1-aedc5f74c0a4/public_url" target="_blank">Verify Credly Badge</a>
-</p>
-<br clear="all">
+* **TryHackMe Cyber Security 101 (SEC1)** — Certified  
+  [Verify Credly Badge](https://www.credly.com/badges/5cb21cf2-f95a-41c0-89c5-cd994543f9fa/public_url)
 
-<p align="left">
-  <a href="https://www.credly.com/badges/7953fda7-8f4f-4f4a-bb5a-5c0d96a3aa10/public_url" target="_blank"><img src="Assets/gitc.png" width="50" align="left" style="margin-right: 15px;" /></a>
-  <strong>Google IT Support Professional Certificate (v.3)</strong> — Completed<br>
-  <a href="https://www.credly.com/badges/7953fda7-8f4f-4f4a-bb5a-5c0d96a3aa10/public_url" target="_blank">Verify Credly Badge</a>
-</p>
-<br clear="all">
+* **ISC2 Certified in Cybersecurity (CC)** — Certified  
+  [Verify Credly Badge](https://www.credly.com/badges/f4469327-8932-4dea-a68a-ddd96438be20/public_url)
 
-<p align="left">
-  <a href="https://www.credly.com/badges/f66208e8-1910-438b-ac8c-f2f8f69ba258/public_url" target="_blank"><img src="Assets/gaif.png" width="50" align="left" style="margin-right: 15px;" /></a>
-  <strong>Google AI Fundamentals</strong> — Completed<br>
-  <a href="https://www.credly.com/badges/f66208e8-1910-438b-ac8c-f2f8f69ba258/public_url" target="_blank">Verify Credly Badge</a>
-</p>
-<br clear="all">
+* **Google Cybersecurity Professional Certificate** — Completed  
+  [Verify Credly Badge](https://www.credly.com/badges/7cb3a47a-1ff6-412b-9dc1-aedc5f74c0a4/public_url)
+
+* **Google IT Support Professional Certificate (v.3)** — Completed  
+  [Verify Credly Badge](https://www.credly.com/badges/7953fda7-8f4f-4f4a-bb5a-5c0d96a3aa10/public_url)
+
+* **Google AI Fundamentals** — Completed  
+  [Verify Credly Badge](https://www.credly.com/badges/f66208e8-1910-438b-ac8c-f2f8f69ba258/public_url)
 ---
 
 ## Technical Write-Ups & CTFs
