@@ -15,29 +15,23 @@
 ### Featured Badges
 <div style="display: flex; gap: 16px; flex-wrap: wrap; align-items: center;">
 
-<a href="https://www.credly.com/badges/5cb21cf2-f95a-41c0-89c5-cd994543f9fa/public_url" target="_blank">
-  <img src="https://images.credly.com/images/5cb21cf2-f95a-41c0-89c5-cd994543f9fa/image.png" width="130" alt="TryHackMe SEC1 Badge" />
+<a href="https://www.credly.com/users/kirby-won" target="_blank">
+  <img src="https://images.credly.com/size/220x220/images/5cb21cf2-f95a-41c0-89c5-cd994543f9fa/image.png" width="120" alt="TryHackMe SEC1 Badge" />
 </a>
 
-<a href="https://www.credly.com/badges/f4469327-8932-4dea-a68a-ddd96438be20/public_url" target="_blank">
-  <img src="https://images.credly.com/images/f4469327-8932-4dea-a68a-ddd96438be20/image.png" width="130" alt="Credly Verified Badge" />
+<a href="https://www.credly.com/users/kirby-won" target="_blank">
+  <img src="https://images.credly.com/size/220x220/images/f4469327-8932-4dea-a68a-ddd96438be20/image.png" width="120" alt="Verified Credly Badge" />
 </a>
 
-<a href="https://www.credly.com/badges/7cb3a47a-1ff6-412b-9dc1-aedc5f74c0a4/public_url" target="_blank">
-  <img src="https://images.credly.com/images/7cb3a47a-1ff6-412b-9dc1-aedc5f74c0a4/image.png" width="130" alt="Credly Verified Badge" />
+<a href="https://www.credly.com/users/kirby-won" target="_blank">
+  <img src="https://images.credly.com/size/220x220/images/7cb3a47a-1ff6-412b-9dc1-aedc5f74c0a4/image.png" width="120" alt="Verified Credly Badge" />
 </a>
 
-<a href="https://www.credly.com/badges/f66208e8-1910-438b-ac8c-f2f8f69ba258/public_url" target="_blank">
-  <img src="https://images.credly.com/images/f66208e8-1910-438b-ac8c-f2f8f69ba258/image.png" width="130" alt="Credly Verified Badge" />
-</a>
-
-<a href="https://www.credly.com/badges/7953fda7-8f4f-4f4a-bb5a-5c0d96a3aa10/public_url" target="_blank">
-  <img src="https://images.credly.com/images/7953fda7-8f4f-4f4a-bb5a-5c0d96a3aa10/image.png" width="130" alt="Credly Verified Badge" />
+<a href="https://www.credly.com/users/kirby-won" target="_blank">
+  <img src="https://images.credly.com/size/220x220/images/f66208e8-1910-438b-ac8c-f2f8f69ba258/image.png" width="120" alt="Verified Credly Badge" />
 </a>
 
 </div>
-
-<br>
 
 * **TryHackMe Cyber Security 101 (SEC1)** — **Certified** | [Verify Credly Badge](https://www.credly.com/badges/5cb21cf2-f95a-41c0-89c5-cd994543f9fa/public_url) | [View Official Certificate](https://assets.tryhackme.com/certification-certificate/6a3ea0d845c19910e247b592.pdf)
 * **Wireshark Packet Analysis & Networking** — **Completed** | [Verify Certificate](https://coursera.org/share/85590761a45f2cff90ac60165973cf5d)
