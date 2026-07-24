@@ -6,7 +6,7 @@
 # Kirby Won
 **Aspiring Cybersecurity Professional | Network & Systems Security**
 
-[GitHub Profile](https://github.com/kirbywon)
+[GitHub Profile](https://github.com/kirbywon) | [Credly Skills Profile](https://www.credly.com/users/kirby-won)
 
 ---
 
@@ -61,15 +61,18 @@
 
 ---
 
+## Core Skills & Technical Stack
+
+* **Security Operations & Analysis:** Incident Response, Malware Analysis, Network Traffic Analysis, Threat Assessment, Vulnerability Assessment, Access Control & Authentication
+* **Security Strategy & Governance:** Risk Assessment & Management, Business Continuity Planning (BCP), Disaster Recovery Planning (DRP), Security Awareness
+* **Security & Network Tools:** Suricata (NIDS), Wireshark, Pi-hole, Unbound, Tailscale, Grafana, Loki, Prometheus
+* **Operating Systems & Infrastructure:** Linux (openSUSE Tumbleweed, Pop!_OS, Kali Linux), Windows, Raspberry Pi OS, System Administration, Containerization (Docker)
+* **Scripting & Technical Capabilities:** Python, Database Queries (SQL), Prompt Engineering, Web Application Security
+
+---
+
 ## Certification Roadmap & Next Steps
 * **Cisco Certified Support Technician (CCST) Networking** *(In Progress)*
 * **Linux Essentials** *(In Progress)*
 * **CompTIA Network+** *(Planned)*
 * **CompTIA Security+** *(Planned)*
-
----
-
-## Core Skills & Technical Stack
-* **Operating Systems:** Linux (openSUSE Tumbleweed, Pop!_OS, Kali Linux), Windows, Raspberry Pi OS
-* **Security & Monitoring:** Suricata (NIDS), Pi-hole, Unbound, Tailscale, Grafana, Loki, Prometheus, Wireshark
-* **Infrastructure & Tools:** Containerization (Docker), System Administration, Network Analysisp
